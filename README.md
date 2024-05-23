@@ -5,4 +5,5 @@ In the directory src\tests contains tests that check the correctness of the func
 Below is a graph of the dependence of the operating time of the function _ьфч on the number of numbers.
 ![tests](https://github.com/LazySquare/TechTask_2/assets/167713992/5df1ed4b-dcdd-4dcb-b056-111a0cffb833)
 
-![image](https://github.com/LazySquare/TechTask_2/assets/167713992/f87f6c0f-5b40-44ba-aa9f-1bbad847e318)
+![image](https://github.com/LazySquare/TechTask_2/assets/167713992/081fa9ae-c1e4-4176-949b-8ade342fd1b0)
+
