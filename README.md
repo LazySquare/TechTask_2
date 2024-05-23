@@ -7,4 +7,3 @@ Below is a graph of the dependence of the operating time of the function _max on
 
 ![image](https://github.com/LazySquare/TechTask_2/assets/167713992/d9989da0-ad47-4edc-aa98-1c764d548026)
 
-https://github.com/LazySquare/TechTask_2/actions/workflows/WORKFLOW-FILE/badge.svg
